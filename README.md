@@ -1,6 +1,6 @@
 **Director, Data, AI & Genome Sciences at [Merck][]**
 
-Research scientist and team builder specializing in small molecule drug discovery, RNA biology, and genomics, with extensive experience in clinical development from target identification through patient selection.
+Research scientist and team builder specializing in pre-clinical drug discovery, AI/ML, functional genomics, and RNA biology, with experience in clinical development from target identification through patient selection.
 
 Active participant in open-source software development at [Acid Genomics][].
 
